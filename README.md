@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 A passionate full stack developer from Uruguay living in New Zealand<br><br>🌱 I’m currently learning next.js and Astro`<br><br>📫 How to reach me msosa380@gmail.com
 
 
