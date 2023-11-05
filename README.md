@@ -4,6 +4,8 @@ A passionate full stack developer from Uruguay living in New Zealand<br><br>🌱
 
 
 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/martin-sosa-crossa/) 
 
